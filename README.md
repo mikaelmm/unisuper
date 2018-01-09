@@ -1,10 +1,6 @@
 # Plataforma Proveedor de Unisuper
 
-```
-​```tex
-\sum_{x=0}^n f(x)
-​```
-```
+
 
 Outline <a name="outline"> </a>
 
@@ -113,17 +109,17 @@ En este capítulo encontrará terminología importante de las que resaltamos
 
 * *Share promedio*: Basado en las ventas del año actual y del año anterior de un Proveedor comparado contra las ventas, en el mismo período, de todos los proveedores
 
-  $\text{Share promedio}= \frac{\text{Proveedor venta AA + venta AP}}{\text{Todos los Proveedores venta AA + venta AP}}$
+  ![img](./imagenes/eqn1.gif)
 
   donde AA y AP se refiere a Año Actual y Año Pasado, respectivamente.
 
 * *Share Interno*: Es el Share del Proveedor para una tienda comparada contra el Share Promedio
 
-  $\text{Share Interno}=\frac{\text{Proveedor Tienda venta AA}}{\text{Todos Proveedores Tienda venta AA}}$
+  ![img](./imagenes/eqn2.gif)
 
 * *GAP*: Es la diferencia de los Share Promedio y Share del Proveedor
 
-  $\text{GAP}=\text{Share Promedio}-\text{Share del Proveedor}$
+  ![img](./imagenes/eqn3.gif)
 
 ![img](./imagenes/gap1.png)
 

@@ -2,29 +2,27 @@
 
 
 
-Outline <a name="outline"> </a>
+
+
+<a name="outline"> </a>
+
+Outline 
 
 - [Data Scan Proveedor](#dsp_pos)
-
 - [Share Unisuper](#share_uni)
-
 - [Share Externo](#share_ext)
-
 - [Análisis de Promociones](#promo_ana)
-
 - [Desempeño de Promociones](#promp_des)
-
 - [Margen Indexado](#margen_ind)
-
 - [Análisis de GAPs](#gaps)
 
-- [Inventarios](#inventarios)
 
-- [Fill Rates](#fill_rate)
 
-  ​
+***
 
-## Data Scan Proveedor <a name="dsp_pos"></a>
+<a name="dsp_pos"></a>
+
+## Data Scan Proveedor 
 
 Características: 
 * Detalle de la venta POS por artículo, tienda y proveedor.
@@ -39,7 +37,13 @@ Características:
 
 [volver al outline](#outline)
 
-## Share Unisuper <a name="share_uni"></a>
+
+
+***
+
+<a name="share_uni"></a>
+
+## Share Unisuper 
 
 * En este capítulo se podrá analizar la participación, de una, algunas o todas las categorías de un proveedor o de proveedores afines. 
 * Esto podrá hacerse a nivel de Categoria o Producto, o según la Tienda. Ver su evolución, y una evaluación del crecimiento y variación respecto al año anterior, ver qué marcas o proveedores han tenido crecimiento, no sólo de sí mismos sino contra la categoría a la que pertenecen. En términos de productos podrá encontrar a aquellos que hayan tenido mayor crecimiento o quienes tienen mayor venta. 
@@ -49,7 +53,11 @@ Características:
 
 [volver al outline](#outline)
 
-## Share Externo <a name="share_ext"></a>
+***
+
+<a name="share_ext"></a>
+
+## Share Externo 
 
   En este capítulo encontrará los Reportes Nielsen
 
@@ -65,7 +73,11 @@ Características:
 
 [volver al outline](#outline)
 
-## Análisis de Promociones <a name="promo_ana"></a>
+***
+
+<a name="promo_ana"></a>
+
+## Análisis de Promociones 
 
   En el capítulo de Promociones contrará la participación de los productos ofertados (con iva), tanto aquellos cuya oferta fue anunciada como de los que no (internos). 
 
@@ -75,7 +87,11 @@ Características:
 
 [volver al outline](#outline)
 
-## Desempeño de Promociones <a name="promo_des"></a>
+***
+
+<a name="promo_des"></a>
+
+## Desempeño de Promociones 
 
 En este capítulo se utilizan herramientas de análisis matemático para evaluar el rendimiento de los descuentos realizados. Según la historia del descuento de un producto, se tiene el rango de unidades vendidas que debieron tenerse, comparando contra el resultado real. 
 
@@ -83,7 +99,11 @@ En este capítulo se utilizan herramientas de análisis matemático para evaluar
 
 [volver al outline](#outline)
 
-## Margen Indexado <a name="margen_ind"></a>
+***
+
+<a name="margen_ind"></a>
+
+## Margen Indexado 
 
 En este capítulo podrán compararse los índices de márgenes del proveedor contra los de proveedores afines, teniendo como base los precios monitoreados de estos últimos. Podrá verse la evolución del índice, del margen bruto, y de la participación de las ventas. 
 
@@ -97,7 +117,11 @@ Este análisis podrá verse a nivel de marca, categoría, o subcategoría.
 
 [volver al outline](#outline)
 
-## Análisis de GAPs <a name="gaps"></a>
+***
+
+<a name="gaps"></a>
+
+## Análisis de GAPs 
 
 En este capítulo podrá analizarse y compararse el crecimiento y las oportunidades de participación del proveedor según los proveedores afines, en base a las ventas. 
 
@@ -124,19 +148,5 @@ En este capítulo encontrará terminología importante de las que resaltamos
 ![img](./imagenes/gap1.png)
 
 [volver al outline](#outline)
-
-## Inventarios <a name="inventarios"></a> 
-
-
-
-[volver al outline](#outline)
-
-## Fill Rate <a name="fill_rate"></a>
-
-
-
-[volver al outline](#outline)
-
-
 
 
